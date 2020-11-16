@@ -7,3 +7,4 @@ So, I made a model using convolution neural networks to classify people are mask
 # Dataset Used:
 https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset
 
+![alt text](https://raw.githubusercontent.com/nikita812/Face-mask-detection-/main/desktop/graph.png)
